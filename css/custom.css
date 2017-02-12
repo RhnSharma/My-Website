@@ -15,7 +15,7 @@ body {
 }
 .jumbotron{
 	text-align: center;
-	background-image: url('../images/Hero-image.jpg'); 
+	background-image: url('images/hero-image.jpg'); 
 	color:white;
 }
 ul.nav{
