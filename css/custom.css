@@ -10,6 +10,12 @@ body {
 	color:grey;
 	font-size:25px;
 }
+.footer p{
+	font-family:monospace;
+}
+.embed-responsive{
+	margin-left:12px;
+}
 #get-involved{
 	background-color: #f5f5f5;
 }
@@ -54,6 +60,7 @@ ul.nav{
 }
 .homepage p{
 	font-weight: 300;
+	font-family: monospace;
 	font-size: 21px;
 }
 .homepage a{
